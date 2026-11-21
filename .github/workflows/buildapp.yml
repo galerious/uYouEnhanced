@@ -22,7 +22,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://drive.google.com/file/d/1El0tc0b0Uh6z2h_LPKpIj-noYlKSvfvu/view?usp=drive_link"
         default: ""
         required: true
         type: string
